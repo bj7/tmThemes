@@ -465,6 +465,61 @@
 				<string>#E06C75</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>entity.name.type.objc</string>
+			<key>scope</key>
+			<string>entity.name.type.objc</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DEBA78</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>meta.scope.interface.objc</string>
+			<key>scope</key>
+			<string>entity.name.function.objc</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#61AFEF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>support.class.cocoa.objc</string>
+			<key>scope</key>
+			<string>support.class.cocoa.objc</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DEBA78</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>variable.language.objc</string>
+			<key>scope</key>
+			<string>variable.language.objc</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E06C75</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>support.variable.cocoa.objc</string>
+			<key>scope</key>
+			<string>support.variable.cocoa.objc</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E06C75</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>966B5356-C7CF-42BC-9E66-9CC89478F53E</string>
